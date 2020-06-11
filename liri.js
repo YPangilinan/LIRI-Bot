@@ -65,7 +65,7 @@ function spotifySearch(){
             console.log("Spotify Link: " + response.tracks.items[i].external_urls.spotify);
         };
    });
-}
+};
 
 //OMDB SEARCH
 function movieSearch(){
