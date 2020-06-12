@@ -23,6 +23,7 @@ This command will utilize the Spotify package and output:
 * The song's name
 * A preview link of the song from Spotify
 * The album that the song is from
+<br>
 Searching for the song "My Heart Will Go On":
 <img src = "images/spotify.png">
 If the user does not type in a movie name, it will automatically output data for "The Sign"
@@ -38,7 +39,7 @@ This command will utilize the OMDB API and output:
 * Language of the movie.
 * Plot of the movie.
 * Actors in the movie.
-
+<br>
 Searching for the movie "50 First Dates":
 <img src = "images/movie.png">
 If the user does not type in a movie name, it will automatically output data for "Mr. Nobody"
@@ -48,7 +49,8 @@ If the user does not type in a movie name, it will automatically output data for
 This command will utilize the Bands in Town API and output:
  * Name of the venue
  * Venue location
- * Date of the Event <br>
+ * Date of the Event 
+ <br>
 Searching for a concert for "Boys II Men":
 <img src = "images/concert.png"> 
 If the user does not type in a movie name, it will automatically output data for "Celine Dion" 
