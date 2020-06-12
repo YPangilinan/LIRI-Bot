@@ -57,7 +57,7 @@ If the user does not type in a movie name, it will automatically output data for
 <img src = "images/concertError.png">
 
 **DO-WHAT-IT-SAYS**<br>
-This command will read what is in the provded random.txt and perform the command that is listed within it.
+This command will read what is in the provded random.txt and perform the command that is listed within it.<br>
 *Do-what-it-says: Spotify-this-song*
 <img src = "images/dothis.png">
 *Do-what-it-says: Movie-this*
